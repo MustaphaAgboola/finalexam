@@ -1,0 +1,3 @@
+[exam_server]
+54.225.35.137 ansible_ssh_user=ubuntu
+
